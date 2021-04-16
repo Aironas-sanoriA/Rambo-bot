@@ -1,0 +1,16 @@
+# Test Server
+
+prefix: '!'
+
+levels:
+
+plugins:
+
+  where: {}
+  utility: {}
+  
+  lfg:
+    config:
+        lfg_command_ident: "!lfg"
+        lfg_voice_ident: "lfg"
+        lfg_text_ident: "lfg"
